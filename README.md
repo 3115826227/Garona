@@ -1,6 +1,6 @@
-# Garona — 企业综合管理平台前端
+# 迦罗娜（Garona）— 企业综合管理平台前端
 
-Garona 是企业综合管理平台的 Web 管理端，与 Anduin 后端配套使用。当前仅完成前端基础工程，尚未接入业务 API。
+迦罗娜（Garona）是企业综合管理平台的 Web 管理端，与 Anduin 后端配套使用。当前仅完成前端基础工程，尚未接入业务 API。
 
 ## 技术栈
 
@@ -46,8 +46,8 @@ src/
 
 ## 仓库与协作
 
-- 后端：[Anduin](https://github.com/3115826227/Anduin)
-- 文档：[Illidan](https://github.com/3115826227/Illidan)
+- 后端：[安度因（Anduin）](https://github.com/3115826227/Anduin)
+- 文档：[伊利丹（Illidan）](https://github.com/3115826227/Illidan)
 - `master`：生产稳定分支；`develop`：开发主线
 - `feature_<description>_<YYYYMMDD>`：需求开发；`hotfix_<description>_<YYYYMMDD>`：紧急修复
 - 功能从 `develop` 拉分支，通过 Pull Request 合并回 `develop`。
